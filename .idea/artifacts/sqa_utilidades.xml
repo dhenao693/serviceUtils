@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sqa_utilidades">
+    <output-path>$PROJECT_DIR$/out/artifacts/sqa_utilidades</output-path>
+    <root id="archive" name="sqa_utilidades.main.jar">
+      <element id="module-output" name="sqa_utilidades.main" />
+    </root>
+  </artifact>
+</component>
